@@ -3,7 +3,7 @@ import discount from "../assets/svg/discount-initial.svg";
 import discountHover from "../assets/svg/discount-hover.svg";
 import user from "../assets/svg/user-icon.svg";
 import userHover from "../assets/svg/user-icon-green.svg";
-import cart from "../assets/cart-icon.png";
+import cart from "../assets/img/cart-icon.png";
 
 export const HeaderStyle = styled.div`
   display: flex;

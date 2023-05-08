@@ -1,4 +1,4 @@
-import logo from "../assets/logo-phy1.png";
+import logo from "../assets/img/logo-phy1.png";
 import searchIcon from "../assets/svg/search-icon.svg";
 import { HeaderStyle, InputContainer } from "../styles/Header.style.jsx";
 
