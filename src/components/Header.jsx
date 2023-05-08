@@ -1,10 +1,10 @@
 import logo from "../assets/logo-phy1.png";
 import searchIcon from "../assets/svg/search-icon.svg";
-import "../styles/Header.css";
+import { HeaderStyle } from "../styles/Header.style.jsx";
 
 export function Header() {
   return (
-    <div className="Header">
+    <HeaderStyle>
       <img src={logo} alt="Logo da loja" />
       <div className="InputsContainer">
         <div className="InputBox">
@@ -18,6 +18,6 @@ export function Header() {
         <span className="ImageUser"></span>
         <span className="ImageCart"></span>
       </div>
-    </div>
+    </HeaderStyle>
   );
 }
