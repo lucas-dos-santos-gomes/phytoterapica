@@ -1,5 +1,5 @@
-import Frete from './components/Freight.jsx';
-import { Header } from "./components/Header.jsx";
+import Frete from './components/Freight/index.jsx';
+import { Header } from "./components/Header/index.jsx";
 import './App.css';
 
 export default function App() {

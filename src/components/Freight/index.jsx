@@ -1,5 +1,5 @@
-import frete from "../assets/svg/frete-icon.svg";
-import "../styles/Freight.css";
+import frete from "../../assets/svg/frete-icon.svg";
+import "./style.css";
 
 export default function Freight() {
   return (

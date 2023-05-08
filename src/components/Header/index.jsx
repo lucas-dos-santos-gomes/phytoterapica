@@ -1,6 +1,6 @@
-import logo from "../assets/img/logo-phy1.png";
-import searchIcon from "../assets/svg/search-icon.svg";
-import { HeaderStyle, InputContainer } from "../styles/Header.style.jsx";
+import logo from "../../assets/img/logo-phy1.png";
+import searchIcon from "../../assets/svg/search-icon.svg";
+import { HeaderStyle, InputContainer } from "./style.jsx";
 
 export function Header() {
   return (
