@@ -13,6 +13,7 @@ export function Header() {
         </div>
         <div>
           <p>-5% na primeira compra</p>
+          <p>Clique para copiar: CUPOM5</p>
           <span></span>
         </div>
         <span className="ImageUser"></span>
