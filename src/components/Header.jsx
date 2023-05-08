@@ -13,7 +13,7 @@ export function Header() {
         </div>
         <div>
           <p>-5% na primeira compra</p>
-          <span className="ImageDiscount"></span>
+          <span></span>
         </div>
         <span className="ImageUser"></span>
         <span className="ImageCart"></span>

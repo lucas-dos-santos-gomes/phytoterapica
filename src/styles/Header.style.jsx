@@ -46,4 +46,9 @@ export const InputContainer = styled.div`
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
   }
+
+  & div span {
+    width: 24px;
+    height: 24px;
+  }
 `;
