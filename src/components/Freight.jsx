@@ -1,4 +1,4 @@
-import frete from "../assets/svg/icon-frete.svg";
+import frete from "../assets/svg/frete-icon.svg";
 import "../styles/Freight.css";
 
 export default function Freight() {
